@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MissionInfo
+comment1.params=missionId\ missionType\ threatLevel\ missionDate\ expectedDuration\ missionReward
+comment1.target=MissionInfo(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getMissionId()
+comment3.params=
+comment3.target=java.lang.String\ getMissionType()
+comment4.params=
+comment4.target=int\ getThreatLevel()
+comment5.params=
+comment5.target=java.lang.String\ getMissionDate()
+comment6.params=
+comment6.target=int\ getExpectedDuration()
+comment7.params=
+comment7.target=int\ getMissionReward()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

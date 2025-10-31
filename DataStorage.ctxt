@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DataStorage
+comment1.params=filename
+comment1.target=void\ loadData(java.lang.String)
+comment2.params=heroId
+comment2.target=HeroInfo\ findHeroById(java.lang.String)
+comment3.params=
+comment3.target=java.util.LinkedList\ getHeroList()
+comment4.params=
+comment4.target=void\ printAllData()
+numComments=5

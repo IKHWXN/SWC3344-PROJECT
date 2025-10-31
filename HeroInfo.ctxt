@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=HeroInfo
+comment1.params=heroId\ heroName\ teamName
+comment1.target=HeroInfo(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=mission
+comment2.target=void\ addMission(MissionInfo)
+comment3.params=
+comment3.target=java.util.List\ getMissions()
+comment4.params=
+comment4.target=java.lang.String\ getHeroId()
+comment5.params=
+comment5.target=java.lang.String\ getHeroName()
+comment6.params=
+comment6.target=java.lang.String\ getTeamName()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

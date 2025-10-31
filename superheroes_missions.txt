@@ -1,0 +1,100 @@
+H001,Bat Knight,Shadow League,MIS001,Recon,2,2025-09-01,2,5000
+H001,Bat Knight,Shadow League,MIS002,Rescue,3,2025-09-02,3,7500
+H001,Bat Knight,Shadow League,MIS003,Combat,4,2025-09-03,4,10000
+H001,Bat Knight,Shadow League,MIS004,Stealth,2,2025-09-04,2,6000
+H002,Iron Guardian,Tech Vanguard,MIS005,Defense,5,2025-09-01,5,15000
+H002,Iron Guardian,Tech Vanguard,MIS006,Assault,4,2025-09-05,4,12000
+H002,Iron Guardian,Tech Vanguard,MIS007,Recon,3,2025-09-06,3,8000
+H002,Iron Guardian,Tech Vanguard,MIS008,Rescue,4,2025-09-07,4,11000
+H002,Iron Guardian,Tech Vanguard,MIS009,Patrol,2,2025-09-08,2,5000
+H003,Crimson Widow,Elite Agents,MIS010,Infiltration,3,2025-09-01,3,9000
+H003,Crimson Widow,Elite Agents,MIS011,Surveillance,2,2025-09-03,2,6000
+H003,Crimson Widow,Elite Agents,MIS012,Combat,4,2025-09-06,4,9500
+H003,Crimson Widow,Elite Agents,MIS013,Extraction,5,2025-09-09,5,14000
+H004,Thunder Sentinel,Storm Force,MIS014,Patrol,2,2025-09-01,2,5000
+H004,Thunder Sentinel,Storm Force,MIS015,Combat,4,2025-09-02,3,10000
+H004,Thunder Sentinel,Storm Force,MIS016,Global Defense,5,2025-09-04,6,18000
+H005,Scarlet Witchlight,Arcana Guard,MIS017,Magic Containment,5,2025-09-02,4,16000
+H005,Scarlet Witchlight,Arcana Guard,MIS018,Reality Warp,4,2025-09-03,4,12000
+H005,Scarlet Witchlight,Arcana Guard,MIS019,Protection,3,2025-09-05,3,7000
+H005,Scarlet Witchlight,Arcana Guard,MIS020,Arcane Recon,3,2025-09-07,2,8000
+H006,Steel Patriot,Defenders United,MIS021,Combat,4,2025-09-01,3,10000
+H006,Steel Patriot,Defenders United,MIS022,Defense,3,2025-09-02,3,8500
+H006,Steel Patriot,Defenders United,MIS023,Escort,2,2025-09-03,2,6000
+H007,Flashbolt,Speed Corps,MIS024,Delivery,1,2025-09-01,1,3000
+H007,Flashbolt,Speed Corps,MIS025,Rescue,3,2025-09-02,2,7000
+H007,Flashbolt,Speed Corps,MIS026,Time Trial,4,2025-09-03,3,9000
+H007,Flashbolt,Speed Corps,MIS027,Recon,2,2025-09-04,2,4500
+H008,Aqua Monarch,Oceanic Alliance,MIS028,Patrol,2,2025-09-01,2,6000
+H008,Aqua Monarch,Oceanic Alliance,MIS029,Combat,3,2025-09-02,3,8500
+H008,Aqua Monarch,Oceanic Alliance,MIS030,Defense,3,2025-09-03,3,9000
+H008,Aqua Monarch,Oceanic Alliance,MIS031,Rescue,4,2025-09-04,4,11000
+H009,Shadow Panther,Stealth Division,MIS032,Recon,2,2025-09-01,2,7000
+H009,Shadow Panther,Stealth Division,MIS033,Infiltration,4,2025-09-02,3,11000
+H009,Shadow Panther,Stealth Division,MIS034,Extraction,3,2025-09-03,3,9500
+H009,Shadow Panther,Stealth Division,MIS035,Defense,4,2025-09-05,4,12000
+H010,Green Archer,Arrow Syndicate,MIS036,Recon,2,2025-09-01,2,5000
+H010,Green Archer,Arrow Syndicate,MIS037,Combat,3,2025-09-03,3,8000
+H010,Green Archer,Arrow Syndicate,MIS038,Protection,2,2025-09-05,2,6000
+H010,Green Archer,Arrow Syndicate,MIS039,Rescue,3,2025-09-07,3,8500
+H011,Cosmic Falcon,Star League,MIS040,Space Patrol,4,2025-09-01,4,13000
+H011,Cosmic Falcon,Star League,MIS041,Alien Defense,5,2025-09-02,5,16000
+H011,Cosmic Falcon,Star League,MIS042,Exploration,3,2025-09-04,3,9000
+H011,Cosmic Falcon,Star League,MIS043,Rescue,4,2025-09-06,4,12000
+H012,Doctor Arcane,Arcana Guard,MIS044,Containment,4,2025-09-01,4,13000
+H012,Doctor Arcane,Arcana Guard,MIS045,Healing,3,2025-09-02,2,7000
+H012,Doctor Arcane,Arcana Guard,MIS046,Research,2,2025-09-03,3,5000
+H012,Doctor Arcane,Arcana Guard,MIS047,Magic Defense,5,2025-09-05,4,15000
+H013,Starflare,Defenders United,MIS048,Recon,3,2025-09-01,3,7500
+H013,Starflare,Defenders United,MIS049,Escort,2,2025-09-02,2,5000
+H013,Starflare,Defenders United,MIS050,Patrol,2,2025-09-03,2,6000
+H013,Starflare,Defenders United,MIS051,Combat,4,2025-09-04,4,9500
+H014,Night Specter,Shadow League,MIS052,Infiltration,4,2025-09-01,3,11000
+H014,Night Specter,Shadow League,MIS053,Recon,2,2025-09-02,2,6000
+H014,Night Specter,Shadow League,MIS054,Defense,3,2025-09-03,3,8000
+H014,Night Specter,Shadow League,MIS055,Rescue,4,2025-09-05,4,10000
+H015,Silver Sentinel,Tech Vanguard,MIS056,Combat,4,2025-09-01,3,9500
+H015,Silver Sentinel,Tech Vanguard,MIS057,Defense,3,2025-09-03,3,8500
+H015,Silver Sentinel,Tech Vanguard,MIS058,Repair,2,2025-09-05,2,5000
+H015,Silver Sentinel,Tech Vanguard,MIS059,Protection,3,2025-09-06,3,7500
+H016,Crimson Titan,Elite Agents,MIS060,Combat,5,2025-09-01,5,16000
+H016,Crimson Titan,Elite Agents,MIS061,Defense,4,2025-09-03,4,12000
+H016,Crimson Titan,Elite Agents,MIS062,Rescue,4,2025-09-04,4,11000
+H016,Crimson Titan,Elite Agents,MIS063,Patrol,3,2025-09-06,3,8000
+H017,Emerald Guardian,Green Force,MIS064,Protection,3,2025-09-01,3,8000
+H017,Emerald Guardian,Green Force,MIS065,Combat,4,2025-09-03,4,11000
+H017,Emerald Guardian,Green Force,MIS066,Patrol,2,2025-09-05,2,5000
+H018,Blaze Rider,Fire Corps,MIS067,Combat,4,2025-09-01,3,10000
+H018,Blaze Rider,Fire Corps,MIS068,Patrol,2,2025-09-03,2,5500
+H018,Blaze Rider,Fire Corps,MIS069,Defense,3,2025-09-05,3,8000
+H018,Blaze Rider,Fire Corps,MIS070,Global Threat,5,2025-09-07,5,18000
+H019,Phantom Archer,Arrow Syndicate,MIS071,Recon,2,2025-09-01,2,4500
+H019,Phantom Archer,Arrow Syndicate,MIS072,Combat,3,2025-09-02,3,8500
+H019,Phantom Archer,Arrow Syndicate,MIS073,Defense,3,2025-09-03,3,9000
+H019,Phantom Archer,Arrow Syndicate,MIS074,Protection,2,2025-09-04,2,5000
+H020,Volt Storm,Storm Force,MIS075,Assault,4,2025-09-01,4,12000
+H020,Volt Storm,Storm Force,MIS076,Defense,4,2025-09-03,4,11000
+H020,Volt Storm,Storm Force,MIS077,Energy Control,5,2025-09-04,5,15000
+H020,Volt Storm,Storm Force,MIS078,Recon,2,2025-09-06,2,6000
+H021,Crimson Falcon,Star League,MIS079,Rescue,4,2025-09-01,4,11000
+H021,Crimson Falcon,Star League,MIS080,Patrol,3,2025-09-02,3,8500
+H021,Crimson Falcon,Star League,MIS081,Defense,3,2025-09-03,3,9000
+H021,Crimson Falcon,Star League,MIS082,Exploration,4,2025-09-05,4,10000
+H022,Mystic Druid,Arcana Guard,MIS083,Magic Research,3,2025-09-01,3,7500
+H022,Mystic Druid,Arcana Guard,MIS084,Healing,2,2025-09-03,2,5000
+H022,Mystic Druid,Arcana Guard,MIS085,Containment,4,2025-09-05,4,12000
+H023,Frost Sentinel,Defenders United,MIS086,Defense,3,2025-09-01,3,8000
+H023,Frost Sentinel,Defenders United,MIS087,Combat,4,2025-09-03,4,10000
+H023,Frost Sentinel,Defenders United,MIS088,Patrol,2,2025-09-04,2,5500
+H023,Frost Sentinel,Defenders United,MIS089,Rescue,3,2025-09-06,3,9000
+H024,Nightwinger,Shadow League,MIS090,Recon,3,2025-09-01,3,7000
+H024,Nightwinger,Shadow League,MIS091,Infiltration,4,2025-09-02,3,9500
+H024,Nightwinger,Shadow League,MIS092,Combat,4,2025-09-03,4,11000
+H024,Nightwinger,Shadow League,MIS093,Rescue,3,2025-09-04,3,8500
+H025,Atom Dynamo,Tech Vanguard,MIS094,Research,3,2025-09-01,3,7500
+H025,Atom Dynamo,Tech Vanguard,MIS095,Defense,4,2025-09-03,4,11000
+H025,Atom Dynamo,Tech Vanguard,MIS096,Combat,4,2025-09-05,4,12000
+H025,Atom Dynamo,Tech Vanguard,MIS097,Repair,2,2025-09-07,2,5500
+H026,Blue Comet,Speed Corps,MIS098,Patrol,2,2025-09-01,2,5000
+H026,Blue Comet,Speed Corps,MIS099,Rescue,3,2025-09-03,3,8500
+H026,Blue Comet,Speed Corps,MIS100,Time Trial,4,2025-09-05,4,9500

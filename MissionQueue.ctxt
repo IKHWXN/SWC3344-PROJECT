@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MissionQueue
+comment1.params=cityName
+comment1.target=MissionQueue(java.lang.String)
+comment2.params=hero
+comment2.target=void\ enqueue(HeroInfo)
+comment3.params=
+comment3.target=HeroInfo\ dequeue()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=
+comment5.target=void\ displayQueue()
+comment6.params=
+comment6.target=java.lang.String\ getCityName()
+comment7.params=
+comment7.target=java.util.Queue\ getQueue()
+numComments=8
